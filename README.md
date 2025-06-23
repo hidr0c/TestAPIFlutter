@@ -1,12 +1,12 @@
 # Test mmobomb API
 
-This is just project at my uni, nothing special 
+Note: This is just a university project, nothing special.
 
-Use this command on terminal (if the API failed to load on the website)
+If the API fails to load on the website, try running this command in the terminal:
 
 ```flutter run -d chrome --web-browser-flag "--disable-web-security```
 
-For mobile just run emulator as cold boot
+For mobile, if the API doesn't load, make sure to cold boot the emulator before running the app
 
 ## Getting Started
 
