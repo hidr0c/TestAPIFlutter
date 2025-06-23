@@ -3,7 +3,7 @@
 This is just project at my uni, nothing special 
 
 Use this command on terminal (if the API failed to load on the website)
-``flutter run -d chrome --web-browser-flag "--disable-web-security``
+```flutter run -d chrome --web-browser-flag "--disable-web-security```
 For mobile just run emulator as cold boot
 
 ## Getting Started
